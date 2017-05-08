@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     addressable (2.4.0)
     backports (3.6.8)
@@ -53,6 +53,3 @@ DEPENDENCIES
   sinatra (~> 1.4)
   sinatra-contrib (~> 1.4)
   webmock (~> 1.24)
-
-BUNDLED WITH
-   1.11.2
